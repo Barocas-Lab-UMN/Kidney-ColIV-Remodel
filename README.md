@@ -68,7 +68,8 @@ two effects, and the system becomes unstable. This result suggests that mechanob
 mechanoregulatory therapies may be possible for Alport syndrome and other minor-chain
 collagen diseases of the kidney.
 
-# Installation
+# Installation 
+See the [Wiki](https://github.com/Barocas-Lab-UMN/Kidney-ColIV-Remodel/wiki) for instructions on downloading and running the code used for this work.
 
 # Citing
 
